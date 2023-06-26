@@ -1,8 +1,12 @@
-6048
+6053
 60/home/user/Desktop/NamasteReact/food-order/package-lock.json1687739608071989418 0
-69/home/user/Desktop/NamasteReact/food-order/dist/index.7826abd7.js.map1687739809283988650 0
-58/home/user/Desktop/NamasteReact/food-order/dist/index.html1687739809227988650 0
-65/home/user/Desktop/NamasteReact/food-order/dist/index.7826abd7.js1687739809279988650 0
+53/home/user/Desktop/NamasteReact/food-order/.gitignore1687740160959987308 0
+69/home/user/Desktop/NamasteReact/food-order/dist/index.7826abd7.js.map1687740046407987745 0
+70/home/user/Desktop/NamasteReact/food-order/dist/index.9c8ce86a.css.map1687740018963987850 0
+58/home/user/Desktop/NamasteReact/food-order/dist/index.html1687740046347987746 0
+65/home/user/Desktop/NamasteReact/food-order/dist/index.7826abd7.js1687740046399987745 0
+65/home/user/Desktop/NamasteReact/food-order/dist/index.aeff5ed0.js1687740018955987850 0
+69/home/user/Desktop/NamasteReact/food-order/dist/index.aeff5ed0.js.map1687740018963987850 0
 53/home/user/Desktop/NamasteReact/food-order/index.html1687739205539990953 0
 89/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/runtime-react-refresh/src1687739377895990296 1
 112/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/runtime-react-refresh/lib/ReactRefreshRuntime.js1687739377895990296 0
@@ -2088,7 +2092,7 @@
 92/home/user/Desktop/NamasteReact/food-order/node_modules/css-tree/lib/syntax/node/Selector.js1687739370903990322 0
 92/home/user/Desktop/NamasteReact/food-order/node_modules/css-tree/lib/syntax/config/walker.js1687739371623990320 0
 98/home/user/Desktop/NamasteReact/food-order/node_modules/css-select/node_modules/domhandler/LICENSE1687739384835990269 0
-55/home/user/Desktop/NamasteReact/food-order/package.json1687739924683988210 0
+55/home/user/Desktop/NamasteReact/food-order/package.json1687740467795986138 0
 90/home/user/Desktop/NamasteReact/food-order/node_modules/@swc/helpers/cjs/_create_class.cjs1687739368471990332 0
 96/home/user/Desktop/NamasteReact/food-order/node_modules/@swc/helpers/lib/_to_consumable_array.js1687739368715990331 0
 93/home/user/Desktop/NamasteReact/food-order/node_modules/css-tree/lib/syntax/node/Dimension.js1687739370883990322 0
@@ -2354,7 +2358,7 @@
 95/home/user/Desktop/NamasteReact/food-order/node_modules/caniuse-lite/data/features/innertext.js1687739370847990323 0
 68/home/user/Desktop/NamasteReact/food-order/node_modules/css-tree/cjs1687739368687990331 1
 97/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/core/lib/requests/EntryRequest.js1687739386531990263 0
-42/home/user/Desktop/NamasteReact/food-order1687739608819989415 1
+42/home/user/Desktop/NamasteReact/food-order1687740149027987354 1
 91/home/user/Desktop/NamasteReact/food-order/node_modules/css-tree/lib/lexer/generic-const.js1687739370887990322 0
 75/home/user/Desktop/NamasteReact/food-order/node_modules/.bin/node-gyp-build1687739460331989981 0
 84/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/resolver-default/lib1687739377159990298 1
@@ -3456,7 +3460,7 @@
 121/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/index.d.ts.map1687739368427990332 0
 92/home/user/Desktop/NamasteReact/food-order/node_modules/@swc/helpers/esm/_define_property.js1687739368683990331 0
 110/home/user/Desktop/NamasteReact/food-order/node_modules/css-select/node_modules/domutils/lib/esm/legacy.js.map1687739384311990271 0
-66/home/user/Desktop/NamasteReact/food-order/dist/index.9e4c6fd2.css1687739809227988650 0
+66/home/user/Desktop/NamasteReact/food-order/dist/index.9e4c6fd2.css1687740046347987746 0
 94/home/user/Desktop/NamasteReact/food-order/node_modules/caniuse-lite/data/features/wai-aria.js1687739371507990320 0
 102/home/user/Desktop/NamasteReact/food-order/node_modules/css-select/node_modules/dom-serializer/LICENSE1687739384523990270 0
 99/home/user/Desktop/NamasteReact/food-order/node_modules/caniuse-lite/data/features/pad-start-end.js1687739370899990322 0
@@ -4587,12 +4591,12 @@
 98/home/user/Desktop/NamasteReact/food-order/node_modules/node-gyp-build-optional-packages/README.md1687739368231990333 0
 106/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/reporter-dev-server/src/templates/404.html1687739383623990274 0
 113/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/MediaQuery.cjs1687739387335990260 0
-47/home/user/Desktop/NamasteReact/food-order/dist1687739809287988650 1
+47/home/user/Desktop/NamasteReact/food-order/dist1687740046411987745 1
 106/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/CDO.cjs1687739383971990272 0
 88/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/source-map/dist/types.js1687739368427990332 0
 109/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/String.cjs1687739388035990257 0
 108/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Value.cjs1687739388591990255 0
-70/home/user/Desktop/NamasteReact/food-order/dist/index.9e4c6fd2.css.map1687739809235988650 0
+70/home/user/Desktop/NamasteReact/food-order/dist/index.9e4c6fd2.css.map1687740046351987746 0
 105/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/transformer-svg/test/parseFuncIRI.test.js1687739374847990307 0
 116/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/AtrulePrelude.cjs1687739383971990272 0
 113/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Identifier.cjs1687739386535990263 0
@@ -5055,6 +5059,7 @@
 105/home/user/Desktop/NamasteReact/food-order/node_modules/@parcel/runtime-js/lib/helpers/node/css-loader.js1687739377359990298 0
 106/home/user/Desktop/NamasteReact/food-order/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Url.cjs1687739388035990257 0
 80/home/user/Desktop/NamasteReact/food-order/node_modules/timsort/build/timsort.js1687739368219990333 0
+66/home/user/Desktop/NamasteReact/food-order/dist/index.9c8ce86a.css1687740018955987850 0
 110/home/user/Desktop/NamasteReact/food-order/node_modules/css-select/node_modules/entities/lib/esm/escape.js.map1687739368567990331 0
 96/home/user/Desktop/NamasteReact/food-order/node_modules/dom-serializer/lib/esm/foreignNames.d.ts1687739368347990332 0
 74/home/user/Desktop/NamasteReact/food-order/node_modules/timsort/LICENSE.md1687739368163990333 0
