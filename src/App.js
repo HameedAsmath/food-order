@@ -1,4 +1,4 @@
-import React, {lazy, Suspense} from "react";
+import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
@@ -6,15 +6,20 @@ import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import Contact from "./components/Contact";
 import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
+import { Provider } from "react-redux"
+import AppStore from "./store/AppStore";
+import Cart from "./components/Cart";
 
-const About = lazy(()=>import("./components/About"))
+const About = lazy(() => import("./components/About"))
 
 const AppLayout = () => {
   return (
-    <div className="app">
-      <Header />
+    <Provider store={AppStore}>
+      <div className="app">
+        <Header />
         <Outlet />
-    </div>
+      </div>
+    </Provider>
   );
 };
 
@@ -30,7 +35,7 @@ const appRouter = createBrowserRouter([
       {
         path: "/about",
         element: <Suspense fallback={<h1>Loading...</h1>}>
-          <About/>
+          <About />
         </Suspense>,
       },
       {
@@ -41,6 +46,10 @@ const appRouter = createBrowserRouter([
         path: "/restaurants/:resId",
         element: <RestaurantMenu />,
       },
+      {
+        path: "/cart",
+        element: <Cart />,
+      }
     ],
     errorElement: <Error />,
   },
@@ -48,4 +57,4 @@ const appRouter = createBrowserRouter([
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<RouterProvider router={appRouter}/>);
+root.render(<RouterProvider router={appRouter} />);
